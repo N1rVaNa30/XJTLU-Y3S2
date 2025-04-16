@@ -2,7 +2,7 @@
 
 # Bubble sort
 
-**Bubble sort** repeatedly goes through the list, compares each adjacent pair, and swaps them if they are in the wrong order. 重复遍历数组，比较相邻两个元素，顺序不对则交
+**Bubble sort** repeatedly goes through the list, compares each adjacent pair, and swaps them if they are in the wrong order. 重复遍历数组，比较相邻两个元素，顺序不对则交换
 
 After each pass, the largest/smallest unsorted element "bubbles up" to its correct position at the end.
 
